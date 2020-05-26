@@ -2,7 +2,7 @@
 layout: post
 title: Resources
 description: 
-image: assets/images/pic11.jpg
+image: assets/images/bridge.jpg
 nav-menu: true
 show_tile: true
 ---

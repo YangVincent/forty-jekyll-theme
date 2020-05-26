@@ -2,7 +2,7 @@
 title: Stories
 layout: landing
 description: 
-image: assets/images/pic07.jpg
+image: assets/images/uclbrainscan.jpg
 nav-menu: true
 show_tile: true
 ---
