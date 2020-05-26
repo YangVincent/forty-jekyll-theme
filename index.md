@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'Passionate about Efficiency'
-description: 'I\'m a Software Engineer at Google who enjoys snowboarding, playing badminton, listening to music, and reading.'
+description: "I\'m a Software Engineer at Google who enjoys snowboarding, playing badminton, listening to music, and reading."
 image: null
 author: null
 show_tile: false
