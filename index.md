@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'Hi, my name is Vincent'
-description: 'Passionate about Efficiency'
+description: 'Passionate about Efficiency. Here is another sentence. How does it look?'
 image: null
 author: null
 show_tile: false
