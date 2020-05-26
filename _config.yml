@@ -1,6 +1,6 @@
 # site settings
-title: Vincent
-subtitle: Yang
+title: # This shows up with a white box around it that doesn't look very good
+subtitle: Vincent Yang
 email: vincenty376@gmail.com
 description: Passionate about Efficiency
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
