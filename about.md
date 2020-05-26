@@ -4,6 +4,7 @@ title: About
 description: 
 image: assets/images/pic11.jpg
 nav-menu: true
+show_tile: false
 ---
 
 I’m a Software Engineer at Google who enjoys snowboarding, playing badminton, listening to music, and reading.
