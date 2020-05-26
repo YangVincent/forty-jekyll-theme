@@ -4,7 +4,7 @@ title: Blog
 landing-title: 'Blog'
 nav-menu: true
 description: null
-image: assets/images/northern-lights.jpeg
+image: assets/images/cdparcoord.png
 author: null
 show_tile: true
 ---
