@@ -28,6 +28,7 @@ linkedin_url: https://www.linkedin.com/in/vinyang/
 pinterest_url:
 slack_url:
 twitter_url: 
+resume_url: https://www.yangvincent.com/resume.pdf
 
 # build settings
 markdown: kramdown
