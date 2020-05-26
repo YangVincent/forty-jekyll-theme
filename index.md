@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, I'm Vincent Yang'
-description: Passionate about Efficiency
+landing-title: 'Hi, my name is Forty'
+description: 'Passionate about Efficiency'
 image: null
 author: null
 show_tile: false
